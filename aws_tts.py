@@ -7,6 +7,7 @@
 # IAM: create a user, there is a AWS-managed permission set for Polly
 # IAM: limit user within permission boundary
 # ~/.aws/credentials and ~/.aws/config, see boto3 docs Quickstart section
+# consider dotenv module
 
 import boto3
 
